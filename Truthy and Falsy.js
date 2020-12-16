@@ -34,4 +34,5 @@ if (favoritePhrase) {
   console.log('This string is definitely empty.');
 }
 
+
 // if run the second code block, the result will be: Better get to work! This string is definitely empty. 
